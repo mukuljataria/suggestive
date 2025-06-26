@@ -1,0 +1,65 @@
+{
+    "status": "success",
+    "code": 200,
+    "branch": "enq_recv_mcat",
+    "reply": [
+        {
+            "response": "Hi Devang, Yes, Marble Floor Tiles is available",
+            "label": "Product is available",
+            "placeholder": 0,
+            "pos_flag": 1,
+            "temp_flag": 151,
+            "vertical": 1,
+            "one_click": 1,
+            "is_whatsapp_template": 0,
+            "msg_attach1_url": ""
+        },
+        {
+            "response": "Hi Devang, What size do you prefer for the marble floor tiles?",
+            "label": "Needed size?",
+            "placeholder": 0,
+            "pos_flag": 2,
+            "temp_flag": 3002,
+            "vertical": 1,
+            "one_click": 1,
+            "is_whatsapp_template": 0,
+            "msg_attach1_url": ""
+        },
+        {
+            "response": "Hi Devang, Thanks for your enquiry, we will respond soon",
+            "label": "Thanks for your enquiry",
+            "placeholder": 0,
+            "pos_flag": 3,
+            "temp_flag": 152,
+            "vertical": 1,
+            "one_click": 1,
+            "is_whatsapp_template": 0,
+            "msg_attach1_url": ""
+        },
+        {
+            "response": "Hi Devang\n\nShare more details of Marble Floor Tiles requirement.\n\nCatalog: https://www.indiamart.com/globallifts/floor-tiles.html",
+            "label": "Catalog Link",
+            "placeholder": 1,
+            "pos_flag": 4,
+            "temp_flag": 3,
+            "vertical": 1,
+            "one_click": 1,
+            "is_whatsapp_template": 0,
+            "msg_attach1_url": ""
+        },
+        {
+            "response": "We hope you had an amazing experience with us. Don't forget to provide a quick review.\n\nClick on the link below to share your rating:\nhttps://IndiaMART.in/EAQq06My",
+            "label": "Ask for Review",
+            "placeholder": 1,
+            "pos_flag": 5,
+            "temp_flag": 9,
+            "vertical": 0,
+            "one_click": 1,
+            "is_whatsapp_template": 0,
+            "msg_attach1_url": ""
+        }
+    ],
+    "is_magicpen_enabled": 1,
+    "whatsapp_template_left": 0,
+    "is_window_opened": 0
+}
