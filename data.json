@@ -46,6 +46,17 @@
             "one_click": 1,
             "is_whatsapp_template": 0,
             "msg_attach1_url": ""
+        },
+        {
+            "response": "We hope you had an amazing experience with us. Don't forget to provide a quick review.\n\nClick on the link below to share your rating:\nhttps://IndiaMART.in/EAQq06My",
+            "label": "Ask for Review",
+            "placeholder": 1,
+            "pos_flag": 5,
+            "temp_flag": 9,
+            "vertical": 0,
+            "one_click": 1,
+            "is_whatsapp_template": 0,
+            "msg_attach1_url": ""
         }
     ],
     "is_magicpen_enabled": 1,
