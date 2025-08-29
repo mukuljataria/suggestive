@@ -38,15 +38,6 @@
             "temp_flag": 992,
             "vertical": 1,
             "one_click": 1
-        },
-        {
-            "response": "Can you share more details?",
-            "label": "Share more details?",
-            "placeholder": 0,
-            "pos_flag": 5,
-            "temp_flag": 993,
-            "vertical": 1,
-            "one_click": 1
         }
     ],
     "is_magicpen_enabled": 0,
