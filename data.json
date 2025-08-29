@@ -1,65 +1,56 @@
 {
-    "status": "success",
     "code": 200,
-    "branch": "enq_recv_mcat",
+    "status": "success",
+    "branch": "mailread_static",
     "reply": [
         {
-            "response": "Hi Devang, Yes, Marble Floor Tiles is available",
-            "label": "Product is available",
+            "response": "Hi, Madhan",
+            "label": "Hi, Madhan",
             "placeholder": 0,
             "pos_flag": 1,
-            "temp_flag": 151,
+            "temp_flag": 990,
             "vertical": 1,
-            "one_click": true,
-            "is_whatsapp_template": 0,
-            "msg_attach1_url": ""
+            "one_click": 1
         },
         {
-            "response": "Hi Devang, What size do you prefer for the marble floor tiles?",
-            "label": "Needed size?",
+            "response": "Can you please call me to discuss?",
+            "label": "Call me?",
             "placeholder": 0,
             "pos_flag": 2,
-            "temp_flag": 3002,
+            "temp_flag": 991,
             "vertical": 1,
-            "one_click": true,
-            "is_whatsapp_template": 0,
-            "msg_attach1_url": ""
+            "one_click": 1
         },
         {
-            "response": "Hi Devang, Thanks for your enquiry, we will respond soon",
-            "label": "Thanks for your enquiry",
+            "response": "Okay, thanks for sharing , will check and update",
+            "label": "Check & Update",
             "placeholder": 0,
             "pos_flag": 3,
-            "temp_flag": 152,
+            "temp_flag": 995,
             "vertical": 1,
-            "one_click": true,
-            "is_whatsapp_template": 0,
-            "msg_attach1_url": ""
+            "one_click": 1
         },
         {
-            "response": "Hi Devang\n\nShare more details of Marble Floor Tiles requirement.\n\nCatalog: https://www.indiamart.com/globallifts/floor-tiles.html",
-            "label": "Catalog Link",
-            "placeholder": 1,
+            "response": "What is the best price you can give?",
+            "label": "Best price?",
+            "placeholder": 0,
             "pos_flag": 4,
-            "temp_flag": 3,
+            "temp_flag": 992,
             "vertical": 1,
-            "one_click": true,
-            "is_whatsapp_template": 0,
-            "msg_attach1_url": ""
+            "one_click": 1
         },
         {
-            "response": "We hope you had an amazing experience with us. Don't forget to provide a quick review.\n\nClick on the link below to share your rating:\nhttps://IndiaMART.in/EAQq06My",
-            "label": "Ask for Review",
-            "placeholder": 1,
+            "response": "Can you share more details?",
+            "label": "Share more details?",
+            "placeholder": 0,
             "pos_flag": 5,
-            "temp_flag": 9,
-            "vertical": 0,
-            "one_click": false,
-            "is_whatsapp_template": 0,
-            "msg_attach1_url": ""
+            "temp_flag": 993,
+            "vertical": 1,
+            "one_click": 1
         }
     ],
-    "is_magicpen_enabled": 1,
-    "whatsapp_template_left": 0,
-    "is_window_opened": 0
+    "is_magicpen_enabled": 0,
+    "is_window_opened": 0,
+    "prod_share_count": 0,
+    "whatsapp_template_left": 0
 }
